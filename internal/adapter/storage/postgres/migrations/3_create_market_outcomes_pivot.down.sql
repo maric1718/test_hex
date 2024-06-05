@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS "market_outcomes_pivot";
